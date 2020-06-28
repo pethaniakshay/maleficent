@@ -1,6 +1,6 @@
 package com.codepuran.maleficent;
 
-public class App 
+public class Maleficent
 {
     public static void main( String[] args )
     {

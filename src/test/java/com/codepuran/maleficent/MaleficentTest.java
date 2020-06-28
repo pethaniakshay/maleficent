@@ -3,7 +3,7 @@ package com.codepuran.maleficent;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class AppTest
+public class MaleficentTest
 {
     @Test
     public void shouldAnswerWithTrue()
