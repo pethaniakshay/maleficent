@@ -35,7 +35,6 @@ public class KReverseLinkedList {
             prev = current;
 
             if(i == B - 1) {
-                if()
                 if(veryFirst == null) {
                     veryFirst = current;
                 } else {

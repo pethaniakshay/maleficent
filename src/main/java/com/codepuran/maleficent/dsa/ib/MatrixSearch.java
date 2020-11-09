@@ -1,7 +1,6 @@
 package com.codepuran.maleficent.dsa.ib;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class MatrixSearch {
 
@@ -16,12 +15,12 @@ public class MatrixSearch {
         in1.add(93);
         in1.add(94);
         //in1.add(77);
-        ArrayList<ArrayList<Integer>> intput = new ArrayList();
-        intput.add(in1);
+        ArrayList<ArrayList<Integer>> input = new ArrayList();
+        input.add(in1);
 
         MatrixSearch ms = new MatrixSearch();
 
-        System.out.println(ms.searchMatrix(intput,49));
+        System.out.println(ms.searchMatrix(input,49));
     }
 
     public  int searchMatrix(ArrayList<ArrayList<Integer>> A, int B) {
