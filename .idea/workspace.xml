@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c347ff2-4dc6-4edf-85b3-585d696361d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/ib/tp/MergeTwoSortedLists2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codepuran/maleficent/ib/tp/MergeTwoSortedLists2Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/ib/tp/PairWithGivenDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codepuran/maleficent/ib/tp/PairWithGivenDifferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +50,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="JUnit.MergeTwoSortedLists2Tests">
-    <configuration name="MergeTwoSortedLists2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.dsa.ib.tp.MergeTwoSortedLists2" />
+  <component name="RunManager" selected="JUnit.PairWithGivenDifferenceTest">
+    <configuration name="PairWithGivenDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.dsa.ib.tp.PairWithGivenDifference" />
       <module name="maleficent" />
       <extension name="coverage">
         <pattern>
@@ -74,6 +75,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/code-valley/maleficent" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="MergeTwoSortedLists2Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="maleficent" />
       <extension name="coverage">
@@ -89,7 +109,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedLists2Tests.mergeTest_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PairWithGivenDifferenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="maleficent" />
       <extension name="coverage">
         <pattern>
@@ -98,14 +118,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codepuran.maleficent.ib.tp" />
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.ib.tp.MergeTwoSortedLists2Tests" />
-      <option name="METHOD_NAME" value="mergeTest_1" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.ib.tp.PairWithGivenDifferenceTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedLists2Tests.mergeTest_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PairWithGivenDifferenceTest.solveTest_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="maleficent" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +133,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.codepuran.maleficent.ib.tp" />
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.ib.tp.MergeTwoSortedLists2Tests" />
-      <option name="METHOD_NAME" value="mergeTest_2" />
+      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.ib.tp.PairWithGivenDifferenceTest" />
+      <option name="METHOD_NAME" value="solveTest_1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -123,10 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PairWithGivenDifferenceTest" />
+        <item itemvalue="JUnit.PairWithGivenDifferenceTest.solveTest_1" />
+        <item itemvalue="Application.PairWithGivenDifference" />
+        <item itemvalue="Gradle.C:/code-valley/maleficent" />
         <item itemvalue="JUnit.MergeTwoSortedLists2Tests" />
-        <item itemvalue="JUnit.MergeTwoSortedLists2Tests.mergeTest_2" />
-        <item itemvalue="JUnit.MergeTwoSortedLists2Tests.mergeTest_1" />
-        <item itemvalue="Application.MergeTwoSortedLists2" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +162,7 @@
       <workItem from="1605016617364" duration="595000" />
       <workItem from="1605018332736" duration="608000" />
       <workItem from="1612359926792" duration="58000" />
-      <workItem from="1612360206640" duration="3848000" />
+      <workItem from="1612360206640" duration="9445000" />
     </task>
     <servers />
   </component>
@@ -159,5 +179,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/maleficent$PairWithGivenDifferenceTest.ic" NAME="PairWithGivenDifferenceTest Coverage Results" MODIFIED="1612368367293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.codepuran.maleficent.ib.tp.*</FILTER>
+    </SUITE>
   </component>
 </project>
