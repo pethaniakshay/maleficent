@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c347ff2-4dc6-4edf-85b3-585d696361d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/leetcode/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/leetcode/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/multithreading/RunnableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/multithreading/RunnableFunctional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/multithreading/ThreadClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/multithreading/ThreadClassExampleRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codepuran/maleficent/dsa/leetcode/AddTwoNumbersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/multithreading/ActualMultiThreading.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +58,20 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.RunnableFunctional">
+  <component name="RunManager" selected="Application.ActualMultiThreading">
+    <configuration name="ActualMultiThreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.multithreading.ActualMultiThreading" />
+      <module name="maleficent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codepuran.maleficent.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunnableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.multithreading.RunnableExample" />
       <module name="maleficent" />
@@ -133,28 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="maleficent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codepuran.maleficent.dsa.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codepuran.maleficent.dsa.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.dsa.leetcode.RemoveDuplicatesFromSortedArrayTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ActualMultiThreading" />
         <item itemvalue="Application.RunnableFunctional" />
         <item itemvalue="Application.ThreadClassExampleRunner" />
         <item itemvalue="Application.RunnableExample" />
         <item itemvalue="JUnit.AddTwoNumbersTest.addTwoNumbersTest_1" />
-        <item itemvalue="JUnit.RemoveDuplicatesFromSortedArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +166,7 @@
       <workItem from="1613045555328" duration="5529000" />
       <workItem from="1613141255159" duration="5023000" />
       <workItem from="1614100883241" duration="17000" />
-      <workItem from="1618770622346" duration="2221000" />
+      <workItem from="1618770622346" duration="3100000" />
     </task>
     <servers />
   </component>
