@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c347ff2-4dc6-4edf-85b3-585d696361d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/leetcode/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codepuran/maleficent/dsa/leetcode/RemoveDuplicatesFromSortedArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/leetcode/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/leetcode/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/multithreading/RunnableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/multithreading/RunnableFunctional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/multithreading/ThreadClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/multithreading/ThreadClassExampleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codepuran/maleficent/dsa/leetcode/AddTwoNumbersTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/ib/tp/MaximumOnesAfterModification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/ib/tp/MaximumOnesAfterModification.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +51,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -59,13 +66,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="JUnit.RemoveDuplicatesFromSortedArrayTest">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.dsa.temp.Solution" />
+  <component name="RunManager" selected="Application.RunnableFunctional">
+    <configuration name="RunnableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.multithreading.RunnableExample" />
       <module name="maleficent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codepuran.maleficent.dsa.temp.*" />
+          <option name="PATTERN" value="com.codepuran.maleficent.multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,45 +80,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="RunnableFunctional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.multithreading.RunnableFunctional" />
+      <module name="maleficent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codepuran.maleficent.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadClassExampleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.multithreading.ThreadClassExampleRunner" />
+      <module name="maleficent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codepuran.maleficent.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumOnesAfterModificationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="maleficent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codepuran.maleficent.ib.tp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codepuran.maleficent.ib.tp" />
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.ib.tp.MaximumOnesAfterModificationTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumOnesAfterModificationTest.solutionTest_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AddTwoNumbersTest.addTwoNumbersTest_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="maleficent" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codepuran.maleficent.ib.tp.*" />
+          <option name="PATTERN" value="com.codepuran.maleficent.dsa.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.codepuran.maleficent.ib.tp" />
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.ib.tp.MaximumOnesAfterModificationTest" />
-      <option name="METHOD_NAME" value="solutionTest_3" />
+      <option name="PACKAGE_NAME" value="com.codepuran.maleficent.dsa.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.dsa.leetcode.AddTwoNumbersTest" />
+      <option name="METHOD_NAME" value="addTwoNumbersTest_1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,29 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArrayTest.removeDuplicatesTest_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="maleficent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codepuran.maleficent.dsa.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codepuran.maleficent.dsa.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.dsa.leetcode.RemoveDuplicatesFromSortedArrayTest" />
-      <option name="METHOD_NAME" value="removeDuplicatesTest_3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunnableFunctional" />
+        <item itemvalue="Application.ThreadClassExampleRunner" />
+        <item itemvalue="Application.RunnableExample" />
+        <item itemvalue="JUnit.AddTwoNumbersTest.addTwoNumbersTest_1" />
         <item itemvalue="JUnit.RemoveDuplicatesFromSortedArrayTest" />
-        <item itemvalue="JUnit.RemoveDuplicatesFromSortedArrayTest.removeDuplicatesTest_3" />
-        <item itemvalue="JUnit.MaximumOnesAfterModificationTest" />
-        <item itemvalue="JUnit.MaximumOnesAfterModificationTest.solutionTest_3" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,10 @@
       <workItem from="1612360206640" duration="9923000" />
       <workItem from="1612971978034" duration="5129000" />
       <workItem from="1612978259264" duration="2586000" />
-      <workItem from="1613045555328" duration="4688000" />
+      <workItem from="1613045555328" duration="5529000" />
+      <workItem from="1613141255159" duration="5023000" />
+      <workItem from="1614100883241" duration="17000" />
+      <workItem from="1618770622346" duration="2221000" />
     </task>
     <servers />
   </component>
@@ -191,6 +194,45 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/leetcode/RemoveDuplicatesFromSortedArray.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/leetcode/AddTwoNumbers.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/leetcode/AddTwoNumbers.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/leetcode/AddTwoNumbers.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/dsa/leetcode/AddTwoNumbers.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/codepuran/maleficent/dsa/leetcode/AddTwoNumbersTest.java</url>
+          <line>10</line>
+          <properties class="com.codepuran.maleficent.dsa.leetcode.AddTwoNumbersTest" method="addTwoNumbersTest_1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/maleficent$PairWithGivenDifferenceTest.ic" NAME="PairWithGivenDifferenceTest Coverage Results" MODIFIED="1612368367293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
