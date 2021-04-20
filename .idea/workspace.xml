@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c347ff2-4dc6-4edf-85b3-585d696361d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/multithreading/ActualMultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/multithreading/AccountDangerRaceCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,20 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.ActualMultiThreading">
+  <component name="RunManager" selected="Application.AccountDangerRaceCondition">
+    <configuration name="AccountDangerRaceCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.multithreading.AccountDangerRaceCondition" />
+      <module name="maleficent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codepuran.maleficent.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ActualMultiThreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.multithreading.ActualMultiThreading" />
       <module name="maleficent" />
@@ -111,40 +125,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AddTwoNumbersTest.addTwoNumbersTest_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="maleficent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codepuran.maleficent.dsa.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.codepuran.maleficent.dsa.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.dsa.leetcode.AddTwoNumbersTest" />
-      <option name="METHOD_NAME" value="addTwoNumbersTest_1" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountDangerRaceCondition" />
         <item itemvalue="Application.ActualMultiThreading" />
         <item itemvalue="Application.RunnableFunctional" />
         <item itemvalue="Application.ThreadClassExampleRunner" />
         <item itemvalue="Application.RunnableExample" />
-        <item itemvalue="JUnit.AddTwoNumbersTest.addTwoNumbersTest_1" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,8 @@
       <workItem from="1613045555328" duration="5529000" />
       <workItem from="1613141255159" duration="5023000" />
       <workItem from="1614100883241" duration="17000" />
-      <workItem from="1618770622346" duration="3100000" />
+      <workItem from="1618770622346" duration="3933000" />
+      <workItem from="1618922025774" duration="4042000" />
     </task>
     <servers />
   </component>
