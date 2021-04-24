@@ -9,3 +9,5 @@ Jsrc/main/java/com/codepuran/maleficent/multithreading/RunnableExample.java,3\c
 Msrc/main/java/com/codepuran/maleficent/multithreading/RunnableFunctional.java,e\8\e839194fd139bd4387132b64908bcdc30efd958d
 }
 Msrc/main/java/com/codepuran/maleficent/multithreading/ThreadClassExample.java,9\d\9d0f745142119c89fe1b39e8e93df110312c06a3
+…
+Usrc/main/java/com/codepuran/maleficent/multithreading/AccountDangerRaceCondition.java,c\4\c438b4c84ce5a177ddf750821d74559408090857

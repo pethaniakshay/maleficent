@@ -1,0 +1,18 @@
+
+Q
+java:S6212"/Declare this local variable with "var" instead.(äò¬ïûÿÿÿÿ8É±Å /
+L
+java:S6212	"/Declare this local variable with "var" instead.(‡¥ï‹8Í±Å /
+L
+java:S6212
+"/Declare this local variable with "var" instead.(£ôªƒ8İ±Å /
+L
+java:S6212"/Declare this local variable with "var" instead.(Ñ·½À8ú±Å /
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(é…í¹ÿÿÿÿÿ8Ï¼ü/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(âú·”8Ú²”ü/
+{
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ç³­ü/
+e
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ8µä´ı/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ÒşŠë8¤Ó˜ü/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(­æ¿Ìûÿÿÿÿ8ñ¹ü/
