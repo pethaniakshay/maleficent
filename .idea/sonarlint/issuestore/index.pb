@@ -11,3 +11,5 @@ Msrc/main/java/com/codepuran/maleficent/multithreading/RunnableFunctional.java,
 Msrc/main/java/com/codepuran/maleficent/multithreading/ThreadClassExample.java,9\d\9d0f745142119c89fe1b39e8e93df110312c06a3
 …
 Usrc/main/java/com/codepuran/maleficent/multithreading/AccountDangerRaceCondition.java,c\4\c438b4c84ce5a177ddf750821d74559408090857
+u
+Esrc/main/java/com/codepuran/maleficent/pattern/ForLoopPatternOne.java,e\e\eefef01299a8ba0aa4c04962aec1c7fc7d9ae132
