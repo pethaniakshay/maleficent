@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c347ff2-4dc6-4edf-85b3-585d696361d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/j8/LambdaScopes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/j8/ObjectReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/j8/ImmutableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codepuran/maleficent/j8/StringExperiments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,7 +52,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -60,39 +62,17 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.codepuran.maleficent.j8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaScopes">
-    <configuration name="AccountDangerRaceCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.multithreading.AccountDangerRaceCondition" />
-      <module name="maleficent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codepuran.maleficent.multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ActualMultiThreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.multithreading.ActualMultiThreading" />
-      <module name="maleficent" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codepuran.maleficent.multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringExperiments">
     <configuration name="ForLoopPatternOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.pattern.ForLoopPatternOne" />
       <module name="maleficent" />
@@ -106,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaScopes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.j8.LambdaScopes" />
+    <configuration name="ImmutableRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.j8.ImmutableRunner" />
       <module name="maleficent" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.j8.ObjectReference" />
+    <configuration name="StringExperiments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codepuran.maleficent.j8.StringExperiments" />
       <module name="maleficent" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +125,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LambdaScopes" />
-        <item itemvalue="Application.ObjectReference" />
+        <item itemvalue="Application.StringExperiments" />
+        <item itemvalue="Application.ImmutableRunner" />
         <item itemvalue="Application.ForLoopPatternOne" />
-        <item itemvalue="Application.AccountDangerRaceCondition" />
-        <item itemvalue="Application.ActualMultiThreading" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +157,8 @@
       <workItem from="1619274673827" duration="889000" />
       <workItem from="1619275769742" duration="1286000" />
       <workItem from="1619849526942" duration="3335000" />
+      <workItem from="1620557976429" duration="450000" />
+      <workItem from="1620559599582" duration="2285000" />
     </task>
     <servers />
   </component>
