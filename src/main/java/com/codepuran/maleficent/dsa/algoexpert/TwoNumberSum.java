@@ -2,7 +2,7 @@ package com.codepuran.maleficent.dsa.algoexpert;
 
 import java.util.Arrays;
 
-public class Program {
+public class TwoNumberSum {
   public static int[] twoNumberSum(int[] array, int targetSum) {
     array = Arrays.stream(array).sorted().toArray();
     int head = 0;
@@ -23,7 +23,7 @@ public class Program {
 
   public static void main(String[] args) {
 
-    int[] arr = Program.twoNumberSum(new int[] {5,8,9,11,12,16,19,23,26,29,35}, 42);
+    int[] arr = TwoNumberSum.twoNumberSum(new int[] {5,8,9,11,12,16,19,23,26,29,35}, 42);
 
   }
 }
